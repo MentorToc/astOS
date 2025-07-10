@@ -1,5 +1,5 @@
 # astOS (Arch Snapshot Tree OS)
-### Утилита для создания неизменяемого Arch Linux с помощью снимков btrfs
+### Неизменяемый дистрибутив на основе Arch Linux с помощью снимков btrfs
 
 ![astos-logo](logo.jpg)
 
